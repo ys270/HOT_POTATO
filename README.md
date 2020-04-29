@@ -1,7 +1,7 @@
 # Project 3: TCP Socket Programming
 Tests were ran on Duke virtual machine with Ubuntu 18.
 
-please see [project3.pdf] for detailed requirement.
+please see [project3.pdf](https://github.com/ys270/HOT_POTATO/blob/master/Project%203.pdf) for detailed requirement.
 after complilation (make),
 
 #### To run ringmaster:
